@@ -3,7 +3,9 @@
     <channel>
         <item>
             <title>Version 2.1 (2 bugs fixed; 3 new features)</title>
-            <link>https://play.google.com/store/apps/details?id=com.whatsapp</link>
+            <link>https://github.com/AdlyRadwika/</link>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.whatsapp"
+            sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="/>
             <sparkle:version>2.1</sparkle:version>
         </item>
     </channel>
