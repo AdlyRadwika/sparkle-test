@@ -5,6 +5,7 @@
         <item>
             <title>Version 2.1</title>
             <description>Minor updates and improvements.</description>
+            <sparkle:version>2.1</sparkle:version>
             <enclosure url="https://play.google.com/store/apps/details?id=com.whatsapp" sparkle:version="2.1" sparkle:os="android" />
             <enclosure url="https://apps.apple.com/id/app/whatsapp-messenger/id310633997" sparkle:version="2.1" sparkle:os="ios" />
         </item>
